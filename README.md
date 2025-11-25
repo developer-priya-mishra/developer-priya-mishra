@@ -1,67 +1,61 @@
-✨ Priya Mishra
+👋 Hi, I'm **Priya Mishra**
 
-Hello World 👋
-I'm Priya Mishra, a Frontend Developer passionate about building clean, responsive, and meaningful digital experiences.
-Actively improving my skills in Node.js, DSA, and full-stack development.
+I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
+I enjoy building clean and simple web experiences.
 
+⭐ About Me
 
-👩‍💻 About Me
+  -  Learning Node.js (Backend basics)
 
-💻 Frontend Developer (React, JS, Next.js)
+  -  Practicing React, JavaScript & Next.js
 
-🌱 Currently learning Node.js & Backend Engineering
+  -  Improving DSA and problem-solving
 
-🔍 Focused on improving DSA & Java fundamentals
+  -  Focused on writing clean & understandable code
 
-🧠 Building projects to strengthen my portfolio
+  -  Aiming to become a strong Full-Stack Developer
 
-🎯 Goal: Become a strong full-stack developer & crack a great tech role
+🛠 Tech Stack
+**Frontend**
 
-✨ Love learning new concepts and turning ideas into real projects
+  -  HTML
 
-🛠 Technologies & Tools
-Frontend
+  -  CSS
 
-HTML, CSS, JavaScript
+  -  JavaScript
 
-React, Next.js
+  -  React
 
-Tailwind CSS, Bootstrap
+  -  Next.js
 
-Backend (Learning)
+  -  Tailwind CSS
 
-Node.js
+**Backend (Learning)**
 
-Express.js
+  -  Node.js
 
-MongoDB
+  -  Express.js
 
-Other Skills
+  -  MongoDB
 
-Git & GitHub
+**Tools**
 
-UI/UX basics
+  -  Git
 
-SEO & social media basics
+  -  GitHub
 
-Problem-solving mindset
+  -  VS Code
 
-💛 Interests
+**💛 Interests**
 
-🏸 Badminton — energetic, competitive, and keeps me active
+🏸 Badminton
 
-🧘 Yoga — helps me stay calm, focused & mentally balanced
+🧘 Yoga
 
-🎨 Creative Activities — designing, experimenting with ideas, aesthetic layouts
+🎨 Creative layouts & design
 
-📚 Personal Development — learning, mindset, growth
+📚 Personal development
 
-💡 Tech + Creativity — building small projects to learn faster
+**📫 Contact**
 
-📫 Contact
-
-Let’s connect or collaborate!
-📩 developer.priya.mishra@proton.me
-
-Cheers,
-Priya Mishra
+Email: developer.priya.mishra@proton.me
