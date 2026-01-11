@@ -46,16 +46,6 @@ I enjoy building clean and simple web experiences.
 
   -  VS Code
 
-**💛 Interests**
-
-🏸 Badminton
-
-🧘 Yoga
-
-🎨 Creative layouts & design
-
-📚 Personal development
-
 **📫 Contact**
 
 Email: developer.priya.mishra@proton.me
