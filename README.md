@@ -2,7 +2,9 @@
 
 I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
 I enjoy building clean and simple web experiences.
-[![GitHub Streak](https://streak-stats.demolab.com/?user=developer-priya-mishra)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=developer-priya-mishra&format=png" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-priya-mishra&layout=compact)
 
