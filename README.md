@@ -2,6 +2,8 @@
 
 I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
 I enjoy building clean and simple web experiences.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer-priya-mishra)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-priya-mishra&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=developer-priya-mishra&label=Profile%20views&color=0e75b6&style=flat)
 
