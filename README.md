@@ -2,16 +2,7 @@
 
 I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
 I enjoy building clean and simple web experiences.
-<h2 align="center">🔥 GitHub Streak</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=developer-priya-mishra&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developer-priya-mishra&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=developer-priya-mishra)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-priya-mishra&layout=compact)
 
