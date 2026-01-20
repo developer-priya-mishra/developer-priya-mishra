@@ -1,7 +1,7 @@
 👋 Hi, I'm **Priya Mishra**
 
 I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
-I enjoy building clean and simple web experiences.
+I enjoy building clean and web experiences.
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-priya-mishra&theme=dark&hide_border=true" />
