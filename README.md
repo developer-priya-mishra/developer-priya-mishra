@@ -3,7 +3,7 @@
 I'm a Frontend Developer currently learning Node.js and improving my DSA + Java skills.
 I enjoy building clean and simple web experiences.
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=developer-priya-mishra&format=png" />
+  <img src="https://streak-stats.demolab.com/?user=developer-priya-mishra&format=png&cache_seconds=86400" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-priya-mishra&layout=compact)
