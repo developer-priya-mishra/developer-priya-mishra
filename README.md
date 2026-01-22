@@ -16,18 +16,6 @@ I enjoy building clean and web experiences.
   <img src="https://komarev.com/ghpvc/?username=developer-priya-mishra&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-⭐ About Me
-
-  -  Learning Node.js (Backend basics)
-
-  -  Practicing React, JavaScript & Next.js
-
-  -  Improving DSA and problem-solving
-
-  -  Focused on writing clean & understandable code
-
-  -  Aiming to become a strong Full-Stack Developer
-
 🛠 Tech Stack
 **Frontend**
 
@@ -42,8 +30,10 @@ I enjoy building clean and web experiences.
   -  Next.js
 
   -  Tailwind CSS
-
-**Backend (Learning)**
+    
+  -  DSA
+  
+**Backend **
 
   -  Node.js
 
@@ -56,6 +46,8 @@ I enjoy building clean and web experiences.
   -  Git
 
   -  GitHub
+
+  -  Azure
 
   -  VS Code
 
